@@ -12,7 +12,7 @@ Foundation is MIT-licensed and absolutely free to use. Foundation wouldn't be po
 About Me
 =============
 
-You can look at the projects i've worked on at  http://foundation.zurb.com<br />
+You can look at the projects i've worked on at  http://github.com/tsola2002<br />
 
 
 Repo Contents
